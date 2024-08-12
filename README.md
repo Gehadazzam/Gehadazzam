@@ -1,21 +1,15 @@
-## Hi there 👋
 
-<!--
-**Gehadazzam/Gehadazzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87
+</div>
+<div align="center">
+ Hi! I am Gehad
+Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Egypt
+  </div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![laptop-headphones-furniture-computer_53876-287443](https://github.com/user-attachments/assets/e7670b39-7e63-460f-b044-6b4470ca2a27)
-## Hi! I am Gehad
-## Front End Developer 
-## Aims to Transfer the ideas into real
-### Languages and Tools:
+### :woman_technologist: About Me :
