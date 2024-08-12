@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![laptop-headphones-furniture-computer_53876-287443](https://github.com/user-attachments/assets/e7670b39-7e63-460f-b044-6b4470ca2a27)
+## Hi! I am Gehad
+## Front End Developer 
+## Aims to Transfer the ideas into real
+### Languages and Tools:
