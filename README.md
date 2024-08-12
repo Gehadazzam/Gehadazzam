@@ -17,6 +17,6 @@ Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :woman_technologist: About Me :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gehadazzam&show_icons=true&locale=en&layout=compact" alt="Gehad Azzam" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gehadazzam&show_icons=true&locale=en" alt="Gehad Azzam" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gehadazzam&" alt="Gehad Azzam" /></p>
