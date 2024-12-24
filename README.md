@@ -23,8 +23,11 @@ Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="49" height="49" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="49" height="49" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />   <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' height="80"'>
 </div>
 
+<a href="https://wakatime.com/@b35f6477-1c12-45ee-b4bf-1b38e933d962"><img src="https://wakatime.com/badge/user/b35f6477-1c12-45ee-b4bf-1b38e933d962.svg" alt="Total time coded since Sep 23 2024" /></a>
+
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gehadazzam&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Gehad" />
 </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gehadazzam&" alt="Gehad Azzam streak" /></p>
 
