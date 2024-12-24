@@ -25,8 +25,8 @@ Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <a href="https://wakatime.com/@b35f6477-1c12-45ee-b4bf-1b38e933d962"><img src="https://wakatime.com/badge/user/b35f6477-1c12-45ee-b4bf-1b38e933d962.svg" alt="Total time coded since Sep 23 2024" /></a>
 <div style="display: flex; align-items:">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gehadazzam&" alt="Gehad Azzam streak" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gehadazzam&" alt="Gehad Azzam streak" /></p>
 
-<img src="https://wakatime.com/share/@Gehadazzam/e019e785-046d-49bd-8016-c35b869afc54.svg" alt="WakaTime Stats" width="400">
+<img align="right" src="https://wakatime.com/share/@Gehadazzam/e019e785-046d-49bd-8016-c35b869afc54.svg" alt="WakaTime Stats" width="450">
 </div>
 
