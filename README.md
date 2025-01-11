@@ -27,4 +27,5 @@ Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 <img align="left" src="https://wakatime.com/share/@Gehadazzam/e019e785-046d-49bd-8016-c35b869afc54.svg" alt="WakaTime Stats" width="400">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gehadazzam&theme=tokyonight-duo&hide_border=true&border_radius=10&card_height=189&type=png)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gehadazzam&theme=tokyonight-duo&hide_border=true&border_radius=10&card_height=189&type=png" alt="GitHub Streak" /></a>
