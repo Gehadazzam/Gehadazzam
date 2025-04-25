@@ -8,7 +8,7 @@
  
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Gehadazzam/2e9b03e0-34b2-4384-ab6c-2d5a731a0ece.png" /></a>
 </div>
 
 
@@ -27,5 +27,3 @@ Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 <img align="left" src="https://wakatime.com/share/@Gehadazzam/e019e785-046d-49bd-8016-c35b869afc54.svg" alt="WakaTime Stats" width="400">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gehadazzam&theme=calm-pink&hide_border=true&border_radius=5&card_width=450" alt="GitHub Streak" /></a>
